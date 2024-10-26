@@ -12,7 +12,7 @@ Make sure Node.js is installed on your computer.
 Clone the repository using the following command:
 
 ```bash
-git clone <URL>
+git clone https://github.com/Dennis-Mugo/secure-pmanager.git
 ```
 
 ## Step 3: Install Dependencies
